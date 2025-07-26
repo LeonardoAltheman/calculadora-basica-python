@@ -14,4 +14,5 @@ Como executar:
 3. execute o arquivo no terminal:
 
 '''bash
+
 python "Calculadora-Python-GIT.py"
