@@ -11,11 +11,11 @@ while True:
   
   print("olá! bem-vindo à melhor calculadora do mundo!")
   print("por favor, escolha uma operação listada abaixo para iniciar :) ")
-  print("digite 1 se você quer adicionar")
-  print("digite 2 se você prefere subtrair")
-  print("também podemos multiplicar. Digite 3 para isso")
-  print("por último e não menos importante, você pode dividir digitando 4")
-  print("você também pode sair da calculadora teclando 0")
+  print("digite 1 se você quer adicionar.")
+  print("digite 2 se você prefere subtrair.")
+  print("também podemos multiplicar. Digite 3 para isso.")
+  print("por último e não menos importante, você pode dividir digitando 4.")
+  print("você também pode sair da calculadora teclando 0.")
 
   operacao = input("digite bem aqui: ")
 
