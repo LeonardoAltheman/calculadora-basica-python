@@ -12,5 +12,6 @@ Como executar:
 1. certifique-se de ter o o python instalado
 2. baixe ou clone este repositório
 3. execute o arquivo no terminal:
+
 '''bash
 python "Calculadora-Python-GIT.py"
