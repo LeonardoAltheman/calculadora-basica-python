@@ -13,6 +13,6 @@ COMO EXECUTAR:
 2. baixe ou clone este repositório
 3. execute o arquivo no terminal:
 
-'''bash
+```)bash
 
 python "Calculadora.py"
